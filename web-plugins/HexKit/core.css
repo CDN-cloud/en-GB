@@ -7,13 +7,13 @@ background: white;
 
 // Fallback text if HexKit fails
 /*
-Fallback {
+ifallback {
 visibility: hidden;
 }
 */
 
 // IOS website heading
-heading {
+iheader {
 background: white;
 color: black;
 position: fixed;
@@ -23,3 +23,15 @@ right: 0;
 padding: 10px;
 }
 
+// IOS button
+ibutton {
+background: white;
+color: black;
+width: 100%
+padding: 10px;
+}
+
+// IOS button clicked
+ibutton:active {
+background: #ddd;
+}
