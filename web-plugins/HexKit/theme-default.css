@@ -1,0 +1,17 @@
+ios {
+background: white;
+}
+
+iheader {
+background: white;
+color: black;
+}
+
+ibutton {
+background: white;
+color: black;
+}
+
+ibutton:active {
+background: #ddd;
+}
