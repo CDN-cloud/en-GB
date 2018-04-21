@@ -1,0 +1,25 @@
+html { font-family: Arial, Helvetica, sans-serif; }
+
+// IOS tag to group IOS elements
+ios {
+background: white;
+}
+
+// Fallback text if HexKit fails
+/*
+Fallback {
+visibility: hidden;
+}
+*/
+
+// IOS website heading
+heading {
+background: white;
+color: black;
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+padding: 10px;
+}
+
