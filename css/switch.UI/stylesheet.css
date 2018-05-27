@@ -1,10 +1,10 @@
 .switch-button {
-	width: 5cm;
-	height: 1cm;
+	width: 20px;
+	height: 10px;
 	background: #ebebeb;
-	border: 3mm solid #ebebeb;
+	border: 3px solid #ebebeb;
 	color: #393939;
-	padding: 3mm;
+	padding: 3px;
 	transition: .5s;
 }
 
@@ -15,6 +15,6 @@
 }
 
 .switch-button-content {
-	border-left: 3mm solid blue;
-	padding: 5mm;
+	border-left: 3px solid blue;
+	padding: 3px;
 }
